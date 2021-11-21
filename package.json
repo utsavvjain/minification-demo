@@ -1,0 +1,9 @@
+{
+  "name": "java-grunt",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "*",
+    "grunt-contrib-cssmin": "*",
+    "grunt-contrib-uglify": "^5.0.1"
+  }
+}
