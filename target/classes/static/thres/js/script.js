@@ -1,0 +1,1 @@
+class Modal{constructor(t){this.title=t}}window.addEventListener("load",function(){var t=Demo("Minification of js and css files");this.document.write(t.getTitle)});
