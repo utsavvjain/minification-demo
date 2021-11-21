@@ -5,5 +5,5 @@ class Modal {
 }
 window.addEventListener('load',function(){
     var demo=Demo("Minification of js and css files");
-    this.document.write(demo.getTitle)
+    alert(demo.getTitle)
 })
